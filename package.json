@@ -1,0 +1,16 @@
+{
+  "name": "@oa998/test-types",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/types.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "types": "src/types.d.ts"
+}
